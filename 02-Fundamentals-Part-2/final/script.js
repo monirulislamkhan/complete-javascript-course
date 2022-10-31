@@ -1,5 +1,5 @@
 'use strict';
-
+console.log('hello');
 /*
 ///////////////////////////////////////
 // Activating Strict Mode
